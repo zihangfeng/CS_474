@@ -1,0 +1,1 @@
+I don't provide the makefile, so the user, if using the command, must create the object file of the bst.cpp file. Otherwise, it won't work because they do not connect to each other. When running the program, it will display the instrcution as the guide correcsponding to the assignment.

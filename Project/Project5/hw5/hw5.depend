@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1399158998 source:c:\users\zihang\desktop\hw5\main.cpp
+	<ItemMenu.h>
+
+1399143861 source:c:\users\zihang\desktop\hw5\src\fooditem.cpp
+	"FoodItem.h"
+
+1399146953 c:\users\zihang\desktop\hw5\include\fooditem.h
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1399151101 source:c:\users\zihang\desktop\hw5\src\salmon.cpp
+	"Salmon.h"
+
+1399150998 c:\users\zihang\desktop\hw5\include\salmon.h
+	<FoodItem.h>
+
+1399151113 source:c:\users\zihang\desktop\hw5\src\turkeysandwich.cpp
+	"TurkeySandwich.h"
+
+1399151016 c:\users\zihang\desktop\hw5\include\turkeysandwich.h
+	<FoodItem.h>
+
+1399151972 source:c:\users\zihang\desktop\hw5\src\eggplant.cpp
+	"Eggplant.h"
+
+1399151962 c:\users\zihang\desktop\hw5\include\eggplant.h
+	<FoodItem.h>
+
+1399157560 source:c:\users\zihang\desktop\hw5\src\itemmenu.cpp
+	"ItemMenu.h"
+
+1399153739 c:\users\zihang\desktop\hw5\include\itemmenu.h
+	<Salmon.h>
+	<TurkeySandwich.h>
+	<Eggplant.h>
+
